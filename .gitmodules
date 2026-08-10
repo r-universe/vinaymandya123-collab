@@ -1,5 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "Design.parameters"]
+	path = Design.parameters
+	url = https://github.com/cran/Design.parameters
+[submodule "NeutroBasicDesignsAnalysis"]
+	path = NeutroBasicDesignsAnalysis
+	url = https://github.com/cran/NeutroBasicDesignsAnalysis
+[submodule "NeutroCODsAnalysis"]
+	path = NeutroCODsAnalysis
+	url = https://github.com/cran/NeutroCODsAnalysis
+[submodule "NeutroCrdRcbdAnalysis"]
+	path = NeutroCrdRcbdAnalysis
+	url = https://github.com/cran/NeutroCrdRcbdAnalysis
+[submodule "NeutroIBDAnalysis"]
+	path = NeutroIBDAnalysis
+	url = https://github.com/cran/NeutroIBDAnalysis
+[submodule "NeutroRCDsAnalysis"]
+	path = NeutroRCDsAnalysis
+	url = https://github.com/cran/NeutroRCDsAnalysis
+[submodule "NeutroSplitStripAnalysis"]
+	path = NeutroSplitStripAnalysis
+	url = https://github.com/cran/NeutroSplitStripAnalysis
+[submodule "ResPBIBD"]
+	path = ResPBIBD
+	url = https://github.com/cran/ResPBIBD
+[submodule "TCpRepDesigns"]
+	path = TCpRepDesigns
+	url = https://github.com/vinaymandya123-collab/tcprepdesigns
+[submodule "pRepDesigns"]
+	path = pRepDesigns
+	url = https://github.com/cran/pRepDesigns
