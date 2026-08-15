@@ -28,7 +28,7 @@
 	url = https://github.com/cran/ResPBIBD
 [submodule "TCpRepDesigns"]
 	path = TCpRepDesigns
-	url = https://github.com/vinaymandya123-collab/tcprepdesigns
+	url = https://github.com/cran/TCpRepDesigns
 [submodule "pRepDesigns"]
 	path = pRepDesigns
 	url = https://github.com/cran/pRepDesigns
