@@ -29,6 +29,9 @@
 [submodule "TCpRepDesigns"]
 	path = TCpRepDesigns
 	url = https://github.com/cran/TCpRepDesigns
+[submodule "pRepDOE"]
+	path = pRepDOE
+	url = https://github.com/cran/pRepDOE
 [submodule "pRepDesigns"]
 	path = pRepDesigns
 	url = https://github.com/cran/pRepDesigns
