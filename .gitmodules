@@ -14,6 +14,9 @@
 [submodule "NeutroCrdRcbdAnalysis"]
 	path = NeutroCrdRcbdAnalysis
 	url = https://github.com/cran/NeutroCrdRcbdAnalysis
+[submodule "NeutroDOE"]
+	path = NeutroDOE
+	url = https://github.com/cran/NeutroDOE
 [submodule "NeutroIBDAnalysis"]
 	path = NeutroIBDAnalysis
 	url = https://github.com/cran/NeutroIBDAnalysis
